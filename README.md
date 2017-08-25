@@ -15,7 +15,7 @@ Pineapple is an esoteric programming language inspired by Pool, Ly, and Brainfuc
 
 ## 1.1 Commands I
 A Pineapple program consists of three sections:
- - An integer between 0 and 9 (any number outside these bounds will result in a Syntax Error
+ - An integer between 0 and 9 (any number outside these bounds will result in a Syntax Error)
  - The letter `p` (any other letter will result in a Syntax Error)
  - A string of any length
 
